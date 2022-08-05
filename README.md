@@ -2,6 +2,7 @@
 =====
 ![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue)
 ![License](https://img.shields.io/badge/status-offline-red)
+
 Quantum IO is a work-in-progress gaming environment for Microsoft Windows.
 # Quantum IO
 
