@@ -17,10 +17,13 @@ Quantum IO plans on supporting any gaming controllers as well as a handful of de
 Grab the latest release from the GitHub Releases. Cutting-edge builds are NOT recommended, but they might fix issues that you could encounter while using a stable build.
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Credits
+While building this repository, we were inspired by the following projects and would like to acknowledge their contribution to this repository:
+- TegraRCMSMASH
+- Atmosphère
+- fusee-launcher
 
-Please make sure to update tests as appropriate.
+
 
 ## License
 This software is licensed under the terms of the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
