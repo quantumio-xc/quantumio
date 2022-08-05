@@ -1,3 +1,4 @@
+![Banner](https://cdn.discordapp.com/attachments/800017793227554816/1005146380009996359/Sans-titre-1.png)
 # Quantum IO
 
 Quantum IO is a gaming environment designed to combat piracy by providing developers with various methods to protect their games, while giving gamers a console-like experience, for every single one of their games. 
