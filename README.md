@@ -1,4 +1,6 @@
-![Banner](https://cdn.discordapp.com/attachments/800017793227554816/1005146380009996359/Sans-titre-1.png)
+![Banner](https://cdn.discordapp.com/attachments/800017793227554816/1005146380009996359/Sans-titre-1.png?raw=true)
+=====
+![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue)
 # Quantum IO
 
 Quantum IO is a gaming environment designed to combat piracy by providing developers with various methods to protect their games, while giving gamers a console-like experience, for every single one of their games. 
@@ -18,4 +20,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This software is licensed under the terms of the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
