@@ -1,7 +1,7 @@
 ![Banner](https://cdn.discordapp.com/attachments/800017793227554816/1005146380009996359/Sans-titre-1.png?raw=true)
 =====
 ![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue)
-![License](https://img.shields.io/badge/status-offline-red)
+![Status](https://img.shields.io/badge/status-offline-red)
 
 Quantum IO is a work-in-progress gaming environment for Microsoft Windows.
 # Quantum IO
@@ -16,6 +16,8 @@ Quantum IO plans on supporting any gaming controllers as well as a handful of de
 
 Grab the latest release from the GitHub Releases. Cutting-edge builds are NOT recommended, but they might fix issues that you could encounter while using a stable build.
 
+## Preview
+![Preview](https://cdn.discordapp.com/attachments/1002921870737297408/1005561801116762132/quantumlauncher.png)
 
 ## Credits
 While building this repository, we were inspired by the following projects and would like to acknowledge their contribution to this repository:
