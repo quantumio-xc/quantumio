@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/status-offline-red)
 
 Quantum IO is a work-in-progress gaming environment for Microsoft Windows.
-CURRENTLY IN WINFORMS TESTING STAGE.
 # Quantum IO
 
 Quantum IO is a gaming environment designed to combat piracy by providing developers with various methods to protect their games, while giving gamers a console-like experience, for every single one of their games. 
