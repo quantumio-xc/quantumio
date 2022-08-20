@@ -17,7 +17,7 @@ Quantum IO plans on supporting any gaming controllers as well as a handful of de
 Grab the latest release from the GitHub Releases. Cutting-edge builds are NOT recommended, but they might fix issues that you could encounter while using a stable build.
 ## XCDSA 
 
-The Quantum IO gaming system uses a chain of algorithms that will not be disclosed in this open source edition of the code.
+The Quantum IO gaming system uses a chain of algorithms to protect games that are part of it's ecosystem that will not be disclosed in this open source edition of the code.
 
 ## Preview
 ![Preview](https://cdn.discordapp.com/attachments/1002921870737297408/1005561801116762132/quantumlauncher.png)
